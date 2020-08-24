@@ -1,0 +1,1 @@
+Análise: O sistema deve selecionar um carro de acordo com localidade da pessoa para seguir com o seu destino e tendo seu limite de preço de até 10 dólares

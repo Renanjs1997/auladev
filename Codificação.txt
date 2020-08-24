@@ -1,0 +1,1 @@
+Codificação: Ser desenvolvido em phython , IOS e android para que possa ter acessibilidade em diversas plataformas.

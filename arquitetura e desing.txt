@@ -1,0 +1,1 @@
+Arquitetura e Design: Deve conter um mapa mostrando carros mais próximos da região e um campo onde o cliente possa colocar o local onde deseje ir e em seguida o carro autônomo seja encaminhado pelo sistema quando o cliente clicar no botão ir.

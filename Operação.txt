@@ -1,0 +1,1 @@
+Operação: Acompanhar a instalação/ implantação  do sistema desenvolvido para ser utilizado e validar se não durante bugs a instalação.
